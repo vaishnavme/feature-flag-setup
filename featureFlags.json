@@ -1,0 +1,11 @@
+{
+  "prod": {
+    "editButton": false
+  },
+  "staging": {
+    "editButton": true
+  },
+  "dev": {
+    "editButton": true
+  }
+}
